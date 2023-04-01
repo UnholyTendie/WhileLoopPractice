@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "WhileLoopPractice", "WhileLoopPractice.pyproj", "{E39E5744-65A9-4C29-889E-AE2F1096C21F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E39E5744-65A9-4C29-889E-AE2F1096C21F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E39E5744-65A9-4C29-889E-AE2F1096C21F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5065DE50-83D5-4B13-BBD9-7B48FBA22ED8}
+	EndGlobalSection
+EndGlobal
